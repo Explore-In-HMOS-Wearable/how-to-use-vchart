@@ -5,10 +5,10 @@ This project demonstrates the usage of Vchart, a third-party ohpm package for di
 
 # Preview
 <div>
-<img src="preview/ss1.png" width="24%">
-<img src="preview/ss2.png" width="24%">
-<img src="preview/ss3.png" width="24%">
-<img src="preview/ss4.png" width="24%">
+<img src="screenshots/ss1.png" width="24%">
+<img src="screenshots/ss2.png" width="24%">
+<img src="screenshots/ss3.png" width="24%">
+<img src="screenshots/ss4.png" width="24%">
 </div>
 
 # Use Cases
